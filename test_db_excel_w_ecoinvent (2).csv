@@ -1,0 +1,10 @@
+﻿Activity database,Activity code,Activity name,Activity unit,Activity type,Exchange database,Exchange input,Exchange amount,Exchange unit,Exchange type,Exchange uncertainty type,Exchange loc,Exchange scale,Exchange negative,Notes
+exldb,Precast concrete production,Precast concrete production,ton,process,exldb,Precast concrete production,1,ton,production,,,,,
+exldb,Precast concrete production,Precast concrete production,ton,process,ecoinvent 3.6 conseq,0a3b786bbd504c44b80c8ec48a53738d,168.5,kilogram,technosphere,,,,,"market for cement, Portland (RoW)"
+exldb,Precast concrete production,Precast concrete production,ton,process,ecoinvent 3.6 conseq,3d316bddb5377fac9ceb37f0af9da8bf,7,kilogram,technosphere,,,,,"market for limestone, crushed, for mill (RoW)"
+exldb,Precast concrete production,Precast concrete production,ton,process,ecoinvent 3.6 conseq,8bd3d9acd087ae0b13afb156b79f8386,357.7,kilogram,technosphere,,,,,market for sand (RoW)
+exldb,Precast concrete production,Precast concrete production,ton,process,ecoinvent 3.6 conseq,e8142d32b9137b2dca06fe56792a690a,42.9,kilogram,technosphere,,,,,market for reinforcing steel (GLO)
+exldb,Precast concrete production,Precast concrete production,ton,process,ecoinvent 3.6 conseq,08f78f205f11d44e53a9d22f4d657999,0.052386228,kilogram,technosphere,,,,,"market for polystyrene, expandable (GLO)"
+exldb,Precast concrete production,Precast concrete production,ton,process,ecoinvent 3.6 conseq,07201de55eef98e0ec6c701d0dc89ebf,0.01061883,kilogram,technosphere,,,,,"market for polystyrene, extruded (GLO)"
+exldb,Precast concrete production,Precast concrete production,ton,process,biosphere3,238f8ea9-98df-41dc-ab93-ea5b549a0b96,-59.4,kilogram,biosphere,,,,,gravel in ground
+exldb,Precast concrete production,Precast concrete production,ton,process,biosphere3,2404b41a-2eed-4e9d-8ab6-783946fdf5d6,-0.3899,cubic meter,biosphere,,,,,Water
